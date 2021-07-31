@@ -1,0 +1,53 @@
+h1{
+    font-size: 27px;
+    padding-left: 4%;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 5px;
+}
+
+nav ul{
+    text-align: right;
+    margin-right: 8%;
+    font-size: 18px;
+    font-family: roboto;
+    width: 100%;
+}
+.top{
+    display: flex;
+}
+h2{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+p{
+    font-family: verdana;
+    width: 60%;
+    padding: 2%;
+}
+
+.image{
+    width: 30%;
+}
+
+.projects ul, .skills ul{
+    font-family: verdana;
+    font-weight: bold;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+.sub-about-me{
+    display: flex;
+}
+
+.skills ul{
+    display: flex;
+}
+
+.skills ul li{
+    padding: 2%;
+}
